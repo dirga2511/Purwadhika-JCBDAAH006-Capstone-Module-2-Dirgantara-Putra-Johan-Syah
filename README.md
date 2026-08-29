@@ -77,9 +77,3 @@ Contoh struktur data:
     "harga": 3500,
     "supplier": "PT Indofood CBP Sukses Makmur"
 }
-    "nama_barang": "Indomie Goreng",
-    "kategori": "Makanan",
-    "stok": 120,
-    "harga": 3500,
-    "supplier": "PT Indofood CBP Sukses Makmur"
-}
